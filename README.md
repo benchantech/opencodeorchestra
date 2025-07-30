@@ -1,14 +1,14 @@
 # Open Code Orchestra
 
-Teaching coding through practice and music, from true zero to mastery.
+Family-oriented music + code. $0 tools. Full transparency.
 
 ## About
 
 Open Code Orchestra transforms coding education by bridging the discipline of music with programming practice. We believe that learning to code should follow the same methodical, practice-driven approach that musicians use to master their craft.
 
-**Mission:** "Teaching coding through practice and music, from true zero to mastery."
+**Mission:** "Family-oriented music + code. $0 tools. Full transparency."
 
-**Tagline:** "Every commit is a note. Every failure is a lesson. Every log is a score."
+**Tagline:** "Use the tools. Learn the process. Fork and remix."
 
 ## Philosophy
 
@@ -18,14 +18,14 @@ Our approach is built on several core principles:
 - **Music ↔ Code Bridge:** Treat coding education as musical education, where commits are practice sessions and merges are ensemble work
 - **Failure as Currency:** Every mistake is valuable and becomes teaching IP for others
 - **Practice Logs as Curriculum:** Commit history is the textbook, logs are the lessons
-- **Open Access:** All core tools and explanations are free and sufficient for mastery
-- **Truth-First Private Logs:** Capture raw, unfiltered thinking for authentic learning
+- **Open Access:** All core tools and explanations are free and sufficient for fluency
 
 ## Getting Started
 
-1. Clone the `hello-orchestra` repository
-2. Duplicate `PRACTICE_LOG.md` into `/practice/yourname.md`
-3. Fill one entry. Your first commit is your first note
+1. Sign up for a [GitHub account](https://github.com/)
+2. Clone the `[practicelog](https://github.com/benchantech/practicelog)` repository
+3. Go to your new repository and read the README
+4. Fill one entry. Your first commit is your first note
 
 ## Website Structure
 
@@ -78,4 +78,4 @@ Open Code Orchestra is committed to open access. All core learning materials and
 
 ---
 
-*Every commit is a note. Every failure is a lesson. Every log is a score.*
+*Use the tools. Learn the process. Fork and remix.*
