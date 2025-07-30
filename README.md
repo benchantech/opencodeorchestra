@@ -1,14 +1,14 @@
 # Open Code Orchestra
 
-Family-oriented music + code. $0 tools. Full transparency.
+Learning coding through practice and music, from true zero to fluency.
 
 ## About
 
 Open Code Orchestra transforms coding education by bridging the discipline of music with programming practice. We believe that learning to code should follow the same methodical, practice-driven approach that musicians use to master their craft.
 
-**Mission:** "Family-oriented music + code. $0 tools. Full transparency."
+**Mission:** "Learning coding through practice and music, from true zero to fluency."
 
-**Tagline:** "Use the tools. Learn the process. Fork and remix."
+**Tagline:** "We train together, side by side, building in plain sight."
 
 ## Philosophy
 
