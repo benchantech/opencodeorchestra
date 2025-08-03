@@ -1,36 +1,52 @@
-Creative Commons Attribution 4.0 International License (CC BY 4.0)
+LICENSE
 
 Copyright (c) 2025 Ben Chan Tech LLC
+All rights reserved.
 
-This project is licensed under the Creative Commons Attribution 4.0 International License. 
+---
+
+## Website and Core Platform
+
+Unless otherwise stated, all content hosted on opencodeorchestra.com and related domains is protected under **All Rights Reserved**. You may not reproduce, distribute, or modify any part of the site, design system, or instructional frameworks without explicit written permission.
+
+---
+
+## Remixable Content
+
+Specific files or directories may be explicitly labeled as licensed under:
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+These include:
+- Remixable teaching modules
+- Code scaffolds and boilerplates
+- Annotated educational examples
+
 You are free to:
-
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+- Share — copy and redistribute the material
+- Adapt — remix and build upon the material
 
 Under the following terms:
-
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-**License URL:** https://creativecommons.org/licenses/by/4.0/
-
----
-
-## Trademark Notice
-
-**Open Code Orchestra™** is a trademark of Ben Chan Tech LLC.
-
-The use of this trademark is **not** covered by the Creative Commons license of this codebase. You may fork, remix, and redistribute this project under the terms above, but you must **not** use the “Open Code Orchestra™” name, logo, or associated branding **in a way that suggests affiliation, origin, or endorsement** without **explicit written permission** from the trademark holder.
-
-This includes (but is not limited to):
-
-- Project names or repositories using “Open Code Orchestra” or deceptively similar variations
-- Public representations that imply official status
-- Use of branding assets (logos, visuals, taglines)
-
-Violations may be subject to takedown requests or legal action under applicable trademark law.
+- **Attribution** — credit “Open Code Orchestra™” and link to the source
+- **NonCommercial** — no commercial use without permission
+- **ShareAlike** — derivatives must carry the same license
 
 ---
 
-For clarity or requests regarding trademark usage, contact: ben@benchantech.com
+## Trademark and Branding
 
+**Open Code Orchestra™** is a trademark of Ben Chan Tech LLC.  
+Use of this trademark is not granted by this license. See `TRADEMARK.md` for details.
+
+---
+
+## Forking and Derivatives
+
+Do not use “Open Code Orchestra” or any confusingly similar name, domain, or logo for forks, derivatives, or public reposts without written permission. This includes:
+
+- Repos implying official status
+- Projects marketed under the same or similar name
+- Derivative platforms that confuse users regarding source authority
+
+To request permission: ben@benchantech.com
