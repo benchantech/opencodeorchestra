@@ -1,10 +1,10 @@
-# Open Code Orchestra
+# Open Code Orchestra™
 
 Learning coding through practice and music, from true zero to fluency.
 
 ## About
 
-Open Code Orchestra transforms coding education by bridging the discipline of music with programming practice. We believe that learning to code should follow the same methodical, practice-driven approach that musicians use to master their craft.
+Open Code Orchestra™ transforms coding education by bridging the discipline of music with programming practice. We believe that learning to code should follow the same methodical, practice-driven approach that musicians use to master their craft.
 
 **Mission:** "Learning coding through practice and music, from true zero to fluency."
 
