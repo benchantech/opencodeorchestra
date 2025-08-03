@@ -74,7 +74,7 @@ This is a living project that grows with the community. Contributions are welcom
 
 ## License
 
-Open Code Orchestra is committed to open access. All core learning materials and tools are freely available under open source licenses.
+Open Code Orchestra™ is committed to open access. All core learning materials and tools are freely available under open source licenses.
 
 ---
 
